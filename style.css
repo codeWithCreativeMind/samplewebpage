@@ -1,0 +1,148 @@
+.left {
+  color: black;
+  margin-left: 2rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+.right1 {
+  margin-left: 750px;
+}
+.right1,
+.right {
+  color: black;
+  padding: 1rem;
+  text-decoration: none;
+}
+.right1:hover,.right:hover{
+      background-color: gold;
+      border-radius:40px;
+
+}
+
+.image1 {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.align {
+  display: flex;
+  width: 270px;
+  height: 200px;
+  object-fit: cover;
+  justify-content: space-between;
+  list-style-type: none;
+  text-align: left;
+  margin-left: 2rem;
+}
+.img2a {
+  width: 290px;
+  height: 200px;
+  object-fit: cover;
+  margin-right: 2rem;
+  padding-bottom: 1rem;
+}
+.btn1,
+.btn2,
+.btn3,
+.btn4,
+.btn5,
+.btn6,
+.btn7 {
+  background-color: goldenrod;
+}
+.align2 {
+  list-style-type: none;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+.start {
+  width: 500px;
+  text-align: left;
+}
+.middle {
+  width: 250px;
+  list-style-type: none;
+  margin-top: -1px;
+  margin-left: -5rem;
+}
+.simg1,
+.simg2,
+.simg3,
+.simg4 {
+  width: 135px;
+  height: 110px;
+  float: left;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.aside {
+  width: 280px;
+  list-style-type: none;
+  margin-top: -1px;
+}
+u {
+  color: red;
+}
+.fotter {
+  background-color: black;
+  height: 800px;
+  margin-right: 10px;
+  color: white;
+}
+.f1a,
+.f1b,
+.f1c {
+  background-color: cornsilk;
+  width: 400px;
+  height: 180px;
+  margin: 20px;
+}
+.f1 {
+  list-style-type: none;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+.fa,
+.fb,
+.fc {
+  width: 170px;
+  height: 150px;
+  float: left;
+  object-fit: cover;
+  padding-right: 10px;
+}
+.f2 {
+  display: flex;
+  justify-content: space-between;
+}
+.f2a {
+  width: 210px;
+  height: 300px;
+  text-align: left;
+  background-color: floralwhite;
+  list-style-type: none;
+  color: black;
+}
+.f2b {
+  width: 310px;
+  margin-left: -3px;
+}
+
+.f2cc,
+.f2c {
+  list-style-type: none;
+  width: 350px;
+}
+.plyimg {
+  width: 110px;
+  height: 120px;
+  object-fit: cover;
+  list-style-type: none;
+}
+.f3 {
+  width: 280px;
+  margin-right: 20px;
+}
